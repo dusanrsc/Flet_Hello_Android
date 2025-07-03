@@ -1,4 +1,3 @@
-
 # Imports Section.
 # Importing Sub-Modules Section.
 from flet import *
