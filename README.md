@@ -1,6 +1,6 @@
 # Hello Android Application From Flet For Python!
 
-# Write Flutter Application With Python Flet Framework.
+# Write Monolith Flutter Application With Python Flet Framework.
 
 # Run On Windows Desktop:
 ```cmd
