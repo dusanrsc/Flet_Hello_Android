@@ -6,7 +6,7 @@ $ flet run main.py
 ```
 # Run On Web:
 ```cmd
-$ flet run main.py --web --host (your.local.ip.address) --port{:port}
+$ flet run main.py --web --host (your.local.ip.address) --port {:port}
 ```
 
 # Screenshots:
